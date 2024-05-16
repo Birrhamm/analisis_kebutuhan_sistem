@@ -6,9 +6,9 @@ NIM : 312210272
 KELAS : TI.22.A.2
 ```
 
-# LapOran Analisa Kebutuhan Sistem
+# Laporan Analisa Kebutuhan Sistem
 
-# Analisa Kebutuhan Sistem Informasi Kebersihan Toilet Kampus 
+# Analisa Kebutuhan Sistem Rental Mobil
 
 Silahkan klik untuk membuka file saya : [ANALISA KEBUTUHAN SISTEM PERUSAHAAN RENTAL MOBIL.pdf](https://github.com/Birrhamm/analisis_kebutuhan_sistem/files/15334537/ANALISA.KEBUTUHAN.SISTEM.PERUSAHAAN.RENTAL.MOBIL.pdf)
 
